@@ -1,0 +1,11 @@
+{
+  "name": "ck-local",
+  "owner": { "name": "local" },
+  "plugins": [
+    {
+      "name": "ck",
+      "source": "./ck",
+      "description": "ClaudeKit Engineer - 88 skills, 13 agents, 11 hooks cho quy trinh phat trien phan mem."
+    }
+  ]
+}
