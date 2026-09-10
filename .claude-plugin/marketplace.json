@@ -1,11 +1,16 @@
 {
   "name": "ck-local",
-  "owner": { "name": "local" },
+  "owner": { "name": "shoefap" },
   "plugins": [
     {
       "name": "ck",
       "source": "./ck",
-      "description": "ClaudeKit Engineer - 88 skills, 13 agents, 11 hooks cho quy trinh phat trien phan mem."
+      "description": "ClaudeKit Engineer - 88 skills, 13 agents, 11 hooks. Ban day du cho Claude Code."
+    },
+    {
+      "name": "ck-lite",
+      "source": "./ck-lite",
+      "description": "ClaudeKit Engineer (lite) - 88 skills va 13 agents, khong hook. Dung cho chat va web."
     }
   ]
 }
